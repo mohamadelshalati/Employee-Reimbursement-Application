@@ -1,0 +1,20 @@
+1  send request
+2 response.json(); convert data to json
+3 
+
+
+
+
+
+
+//must do
+1. add functionality to list.html delete edit ...
+
+
+
+
+
+//to do
+1. form-control
+2. make files inaccessable without logging in
+3. 
