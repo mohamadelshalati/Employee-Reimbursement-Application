@@ -24,17 +24,6 @@ import java.util.List;
 public class ManagerServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-//        List<Reimbursement> list = ReimbursementServiceAlpha.getInstance().selectAll();
-//        System.out.println(list);
-        System.out.println("manager servlet called");
-//        ObjectMapper mapper = new ObjectMapper();
-//        PrintWriter out = response.getWriter();
-
-//        String usersJSON = mapper.writeValueAsString(list);
-//        out.write(usersJSON);
-
-
-
 
         Employee employee= new Employee();
         HttpSession session = request.getSession();

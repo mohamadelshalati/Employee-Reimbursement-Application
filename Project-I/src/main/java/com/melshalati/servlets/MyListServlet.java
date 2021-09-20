@@ -19,16 +19,6 @@ public class MyListServlet extends HttpServlet {
         Employee loggedEmployee = null;
         HttpSession session = request.getSession();
         loggedEmployee = (Employee) session.getAttribute("user");
-//        if(cookies != null){
-//            System.out.println("mylistservlet called");
-//            int id = Integer.parseInt(cookies[1].getValue());
-//            System.out.println("id ======= " +id);
-//            Employee employee = new Employee();
-//            employee.setEmpID(id);
-//            System.out.println("cookie = " +id);
-//
-//            loggedEmployee = EmployeeServiceAlpha.getInstance().select(employee);
-//        }
         System.out.println("**************");
         System.out.println(loggedEmployee);
         System.out.println("**************");

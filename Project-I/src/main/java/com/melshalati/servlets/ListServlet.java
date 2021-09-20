@@ -20,18 +20,6 @@ import java.util.List;
 @WebServlet("/ListServlet")
 public class ListServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-//        Cookie[] cookies = request.getCookies();
-//        Employee loggedEmployee = null;
-//        if(cookies != null){
-//            int id = Integer.parseInt(cookies[1].getValue());
-//            Employee employee = new Employee();
-//            employee.setEmpID(id);
-//            System.out.println("cookie = " +id);
-//
-//            loggedEmployee = EmployeeServiceAlpha.getInstance().select(employee);
-//        }
-
-
         List <Reimbursement> list = ReimbursementServiceAlpha.getInstance().selectAll();
         System.out.println(list);
         ObjectMapper mapper = new ObjectMapper();
