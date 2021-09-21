@@ -1,6 +1,6 @@
-## Project name: Project I  |  Reimbursement App
+## **Project name: Project I  | Reimbursement App**
 
-Project Description: 
+### Project Description: 
   Project I is a webapp that allows employees to submit their reimburement requests which could be reviewed by the finance manager.
 
 ### Technologies used:
@@ -14,11 +14,14 @@ Project Description:
  
 ### Features:
   * One login page for both employee and finance manager, which will take each to two different pages.
-  * Finance manager will have an extra tab that contains all employees requests. However employees will not be able to access that tab 
+  * Finance manager will have an extra tab that contains all employees requests. However employees will not be able to access that tab.
+  * Finance manager has the choice to accept or reject a req uest. Status colmn will change accordingly.
   * Responsive and super neat design. 
 
-To-do list:
+### To-do list:
 
   * Implementation of response status codes
 
-Getting Started
+### Getting Started
+  1. Create an MySql database change 
+  
