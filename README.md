@@ -19,9 +19,6 @@
   * Responsive and super neat design. 
   * Manager can sort reimbursement requests by status (pendding, approved, denied).
 
-### To-do list:
-
-  * Implementation of response status codes
 
 ### Getting Started
   1. Clone project.
