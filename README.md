@@ -15,7 +15,7 @@
 ### Features:
   * One login page for both employee and finance manager, which will take each to two different pages.
   * Finance manager will have an extra tab that contains all employees requests. However employees will not be able to access that tab.
-  * Finance manager has the choice to accept or reject a req uest. Status colmn will change accordingly.
+  * Finance manager has the choice to accept or reject a request. Status colmn will change accordingly.
   * Responsive and super neat design. 
   * Manager can sort reimbursement requests by status (pendding, approved, denied).
 
