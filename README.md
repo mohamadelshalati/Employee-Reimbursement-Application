@@ -1,7 +1,7 @@
 ## **Project name: Project I  | Reimbursement App**
 
 ### Project Description: 
-  Project I is a webapp that allows employees to submit their reimburement requests which could be reviewed by the finance manager.
+  Project I is a webapp that allows employees to submit their reimburement requests which could be reviewed, approved, or denied by the finance manager.
 
 ### Technologies used:
   * Java v1.8
