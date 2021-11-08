@@ -1,4 +1,4 @@
-## **Project name: Project I  | Reimbursement App**
+## **Project name: Reimbursement App**
 
 ### Project Description: 
   Project I is a webapp that allows employees to submit their reimburement requests which could be reviewed, approved, or denied by the finance manager.
