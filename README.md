@@ -1,7 +1,7 @@
 ## **Project name: Reimbursement App**
 
 ### Project Description: 
-  Project I is a webapp that allows employees to submit their reimburement requests which could be reviewed, approved, or denied by the finance manager.
+ This web appication allows employees to submit their reimburement requests which could be reviewed, approved, or denied by the finance manager.
 
 ### Technologies used:
   * Java v1.8
@@ -15,9 +15,9 @@
 ### Features:
   * One login page for both employee and finance manager, which will take each to two different pages.
   * Finance manager will have an extra tab that contains all employees requests. However employees will not be able to access that tab.
-  * Finance manager has the choice to accept or reject a request. Status colmn will change accordingly.
+  * Finance manager has the choice to accept or reject a request. Status column will change accordingly.
   * Responsive and super neat design. 
-  * Manager can sort reimbursement requests by status (pendding, approved, denied).
+  * Manager can sort reimbursement requests by status (pending, approved, denied).
 
 
 ### Getting Started
